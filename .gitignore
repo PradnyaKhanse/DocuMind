@@ -1,0 +1,25 @@
+# Environment and secrets
+.env
+*.env.local
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+env/
+venv/
+ENV/
+
+# Data and Vector Store Storage
+data/
+*.bin
+*.jsonl
+*.pdf
+
+# IDE and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

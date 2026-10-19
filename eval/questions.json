@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "question": "What is the primary topic or purpose described in this document?",
+    "expected_keywords": ["overview", "purpose"]
+  },
+  {
+    "id": 2,
+    "question": "Who is the author, creator, or organization associated with this document?",
+    "expected_keywords": ["author"]
+  },
+  {
+    "id": 3,
+    "question": "What key methodology, framework, or process is outlined in the text?",
+    "expected_keywords": ["method", "process"]
+  },
+  {
+    "id": 4,
+    "question": "What are the primary objectives or goals mentioned in the document?",
+    "expected_keywords": ["objective", "goal"]
+  },
+  {
+    "id": 5,
+    "question": "What key findings, conclusions, or results are reported?",
+    "expected_keywords": ["result", "conclusion"]
+  },
+  {
+    "id": 6,
+    "question": "What technologies, tools, or libraries are utilized or recommended?",
+    "expected_keywords": ["tool", "technology"]
+  },
+  {
+    "id": 7,
+    "question": "What challenges, constraints, or limitations are identified in the document?",
+    "expected_keywords": ["challenge", "limitation"]
+  },
+  {
+    "id": 8,
+    "question": "What future steps, recommendations, or next phases are proposed?",
+    "expected_keywords": ["recommendation", "future"]
+  },
+  {
+    "id": 9,
+    "question": "What specific metrics, evaluations, or benchmarks are discussed?",
+    "expected_keywords": ["metric", "evaluation"]
+  },
+  {
+    "id": 10,
+    "question": "What is the summary of the conclusion section?",
+    "expected_keywords": ["summary", "conclusion"]
+  }
+]
